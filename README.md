@@ -16,3 +16,27 @@ With this system, presenters can directly view available slots, register their p
 - Power Automate – Automates email notifications
 
 # 📸 Screenshots
+### 🏠 Home Screen (News)
+> Displays the latest announcements for all users.
+![Home Screen](screenshots/HomeScreen(News).png)
+
+### 🔧 Admin Panel
+> Allows admins to create, edit, and delete news.
+![Admin Panel](screenshots/Add-News.png)
+
+### 📅 Meeting List (FY 2025) & Booking Form
+> Displays available meetings with a booking form; auto-sends emails to admin and CCs the user.
+![Meeting List & Booking Form](screenshots/Meeting-List-Booking.png)
+
+### 📋 Booking List
+> Shows all bookings; users can attach files, edit, or delete their bookings; auto-sends emails to admin and CCs the user.
+![Booking List](screenshots/Booking-List.png)
+
+### ❓ FAQ Section
+> Provides information for users to understand the system.
+![FAQ](screenshots/FAQ.png)
+
+# 📧Contact & Contributions  
+- Contributions are welcome! Feel free to submit issues.
+- Want the `.msapp` file? **DM me on LinkedIn**
+
